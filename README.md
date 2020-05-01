@@ -8,4 +8,4 @@ The **ServerApplication** project contains the classes **GameServer** and **Clie
 - The class **ClientThread**: If the server receives the command **stop** it will stop and will return to the client the respons **"Server stopped"**, otherwise it return: **"Server received the request ... "**
 
 The **ClientApplication** project contains the class **GameClient**.
--The class **GameClient**: The client stops when it reads from the keyboard the string "exit".
+- The class **GameClient**: The client stops when it reads from the keyboard the string "exit".
