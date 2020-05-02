@@ -9,3 +9,5 @@ The **ServerApplication** project contains the classes **GameServer** and **Clie
 
 The **ClientApplication** project contains the class **GameClient**.
 - The class **GameClient**: The client stops when it reads from the keyboard the string "exit".
+
+I followed the examples from the slides and tried to adapt them.
